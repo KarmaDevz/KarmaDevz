@@ -71,11 +71,11 @@ I am a passionate developer focused on **performance**, **automation**, and crea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarmaDevz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="KarmaDevz's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-karmadevzs-projects.vercel.app/api?username=KarmaDevz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaDevz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-karmadevzs-projects.vercel.app/api/top-langs/?username=KarmaDevz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" />
 </p>
 
 <p align="center">
