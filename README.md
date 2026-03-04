@@ -2,7 +2,7 @@
     <img src="banner.png" alt="KarmaDevz Banner" />
 </div>
 
-<h1 align="center">Hey 👋, I'm Karma</h1>
+<h1 align="center">Karma</h1>
 <h3 align="center">Building real projects. Not tutorials.</h3>
 
 <p align="center">
