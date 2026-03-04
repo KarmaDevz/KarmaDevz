@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="banner.png" alt="KarmaDevz Banner" />
+    <img src="banner.png" alt="KarmaDevz Banner" width="500"/>
 </div>
 
 <h1 align="center">Karma</h1>
