@@ -88,5 +88,5 @@ I am a passionate developer focused on **performance**, **automation**, and crea
 ---
 
 <p align="center">
-  ⚡ <i>“Consistency beats motivation.”</i>
+  <i>“Carpe Diem”</i>
 </p>
